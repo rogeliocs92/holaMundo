@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hola mundo</string>
+    <string name="app_name">Hola Mundo</string>
+    <string name="titulo_name">Hola mundo</string>
+    <string name="boton_name">ENTRAR</string>
 </resources>
